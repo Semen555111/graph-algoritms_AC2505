@@ -11,8 +11,8 @@ std::vector<long long> shortestPaths(
     const std::vector<std::tuple<int, int, int>>& edges,
     int start
 ) {
-    // TODO: написать алгоритм. Удалить throw после реализации.
+    // Удалить throw после реализации.
     throw std::runtime_error("NOT_IMPLEMENTED");
 }
 
-} // namespace bellman_ford
+} 
